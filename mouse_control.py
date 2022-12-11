@@ -6,6 +6,7 @@ import pyautogui, sys
 print("Screen Resolution Size: ", pyautogui.size())
 print("Mouse Cursor Position: ", pyautogui.position())
 
+# get and display mouse coordinates in real-time
 print('Press Ctrl-C to quit.')
 try:
     while True:
