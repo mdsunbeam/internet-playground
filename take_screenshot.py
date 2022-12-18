@@ -9,3 +9,4 @@ im1 = pyautogui.screenshot()
 imgplot = plt.imshow(im1)
 print(im1.size[1])
 plt.show()
+
